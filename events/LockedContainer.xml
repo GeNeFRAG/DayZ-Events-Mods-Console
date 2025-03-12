@@ -1,4 +1,4 @@
-    <!-- Add to event.xml -->
+<!-- Add to event.xml -->
 <event name="StaticContainerLocked">
     <nominal>2</nominal>
     <min>1</min>
