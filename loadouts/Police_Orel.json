@@ -17,10 +17,10 @@
                     },
                     "quickBarSlot": 1,
                     "simpleChildrenTypes": [
-                        "AK_Suppressor",
                         "AK_PlasticBttstck_Black",
                         "AK_PlasticHndgrd",
-                        "Mag_AK74_30Rnd_Black"
+                        "Mag_AK74_30Rnd_Black",
+                        "AK_Suppressor"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
@@ -293,9 +293,12 @@
                 "Mag_AK74_30Rnd_Black",
                 "Mag_AK74_30Rnd_Black",
                 "Mag_AK74_30Rnd_Black",
-                "Ammo_308WinTracer",
-                "Ammo_308WinTracer",
-                "Ammo_308WinTracer",
+                "Mag_SSG82_5rnd",
+                "Mag_SSG82_5rnd",
+                "Mag_SSG82_5rnd",
+                "Ammo_762x39",
+                "Ammo_762x39",
+                "Ammo_762x39",
                 "BandageDressing",
                 "BandageDressing",
                 "BandageDressing",
